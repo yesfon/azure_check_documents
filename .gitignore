@@ -1,0 +1,7 @@
+# Entornos y archivos sensibles
+.env
+*.env
+output.json
+__pycache__/
+*.pyc
+/data/
